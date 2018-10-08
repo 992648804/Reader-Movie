@@ -1,0 +1,15 @@
+{
+  "pages": [
+   "pages/welcome/welcome",
+    "pages/posts/post"
+  
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "小程序",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false
+  }
+}
